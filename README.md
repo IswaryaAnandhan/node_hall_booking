@@ -2,6 +2,7 @@
 <h3>
 Hall Booking API for => https://hall-booking-server.onrender.com/
 
+  
 creating Room/Hall API-endpoint:/room/create  => https://hall-booking-server.onrender.com/room/create  
                  
 Booking a room API-endpoint: /room/book  => https://hall-booking-server.onrender.com/room/book
